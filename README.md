@@ -1,0 +1,2 @@
+# smartDeviceSystem
+Java final project 
